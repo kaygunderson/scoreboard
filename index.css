@@ -4,6 +4,11 @@ body {
     text-align: center;
 }
 
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
 #home {
     font-family: Verdana;
     font-weight: 700;
